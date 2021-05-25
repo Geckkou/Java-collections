@@ -1,0 +1,50 @@
+collectionQueue/ExemploQueue.java
+ collectionQueue.ExemploQueue
+collectionList/ExemploList.java
+ collectionList.ExemploList
+collectionMap/ExercicioMap.java
+ collectionMap.ExercicioMap
+collectionsComparators/exercicioComparators/PokemonsReverseDex.java
+ collectionsComparators.exercicioComparators.PokemonsReverseDex
+collectionStream/ExercicioStreamAPI.java
+ collectionStream.ExercicioStreamAPI
+collectionMap/ExemploHashTable.java
+ collectionMap.ExemploHashTable
+collectionsComparators/exercicioComparators/ExercicioComparators.java
+ collectionsComparators.exercicioComparators.ExercicioComparators
+collectionOptionals/ExemploOptional.java
+ collectionOptionals.ExemploOptional
+collectionsComparators/exercicioComparators/Pokemons.java
+ collectionsComparators.exercicioComparators.Pokemons
+collectionMap/ExemploTreemap.java
+ collectionMap.ExemploTreemap
+collectionOptionals/ExemploOptionalPrimitivos.java
+ collectionOptionals.ExemploOptionalPrimitivos
+collectionQueue/ExercicioQueue.java
+ collectionQueue.ExercicioQueue
+collectionList/ExemploVector.java
+ collectionList.ExemploVector
+collectionSet/ExemploHashset.java
+ collectionSet.ExemploHashset
+collectionOptionals/ExemploOptionalEstados.java
+ collectionOptionals.ExemploOptionalEstados
+collectionOptionals/ExercicioOptional.java
+ collectionOptionals.ExercicioOptional
+collectionMap/ExemploHashMap.java
+ collectionMap.ExemploHashMap
+collectionSet/ExemploTreeset.java
+ collectionSet.ExemploTreeset
+collectionSet/ExemploLinkedHashSet.java
+ collectionSet.ExemploLinkedHashSet
+collectionList/ExercicioList.java
+ collectionList.ExercicioList
+collectionSet/ExercicioSet.java
+ collectionSet.ExercicioSet
+collectionsComparators/Estudante.java
+ collectionsComparators.Estudante
+collectionsComparators/ExemploComparators.java
+ collectionsComparators.ExemploComparators
+collectionsComparators/EstudanteOrdemidadeReversaComparators.java
+ collectionsComparators.EstudanteOrdemidadeReversaComparators
+collectionStream/ExemploStreamAPI.java
+ collectionStream.ExemploStreamAPI
